@@ -1,4 +1,4 @@
-# com.fkzhang.wechatxposed
+![image](https://github.com/Xposed-Modules-Repo/com.fkzhang.wechatxposed/assets/25874478/a3fa1e79-d3e8-454f-aee4-5aa9c505c416)# com.fkzhang.wechatxposed
 下载镜像 (Download mirrors):
 
 http://0i.gs/fkz
@@ -16,7 +16,7 @@ https://xposed.appkg.com/2666.html
 
 https://vxposed.com/
 
-https://taichi.cool/
+https://github.com/LSPosed/LSPatch
 
 讨论：
 
